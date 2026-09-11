@@ -1,10 +1,20 @@
 # detection-delay-and-a-problem-bridge
 
-**Two results recovered from archives that existed in no repository: an exact lower bound on the
-order a Toeplitz minor needs to detect an off-axis zero pair, and an identity linking two open
-Erdős problems. Both verified here.**
+**Independent verification of two results that were published without any.**
 
-Author: Jared Wilder. Archives dated 2026-08-11 and 2026-09-02. First public timestamp: 2026-09-11.
+Author: Jared Wilder. Archives dated 2026-08-11 and 2026-09-02. First published 2026-09-11.
+
+> **Correction, made within the hour of first publishing this page.** I originally described these
+> as "recovered from archives that existed in no repository." **That was wrong.** Both were already
+> published earlier the same day by a concurrently running session:
+>
+> - the Erdős 890/1093 bridge, in [erdos-theorems/erdos1093-divisor-window](https://github.com/jaredwilder/erdos-theorems/tree/main/erdos1093-divisor-window)
+> - the RH encirclement material, in [unpublished-math-papers/riemann-hypothesis](https://github.com/jaredwilder/unpublished-math-papers/tree/main/riemann-hypothesis)
+>
+> **What this repository actually adds is verification.** Neither of those two documents contains a
+> counterexample search, a verifier run, or any check at all — I searched both for one. They state
+> the mathematics; this checks it. An unverified claim and a verified claim are different objects,
+> and that difference is the entire contribution here.
 
 ---
 
